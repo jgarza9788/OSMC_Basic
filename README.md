@@ -1,15 +1,15 @@
 Raspberry Pi / OSMC basic instructions
 ------------------------
 
-#Set Up Wifi
+# Set Up Wifi
 
 Main Menu -> My OSMC -> the "<" Icon (at the bottom) -> Wireless -> Select Wifi -> Enter Password
 
-#Set Up BlueTooth Device
+# Set Up BlueTooth Device
 
 Main Menu -> My OSMC -> the "<" Icon (at the bottom) -> Bluetooth -> Pair and Done
 
-#Map Folder for Downloads
+# Map Folder for Downloads
 
 After plugging in a harddrive navigate through the settings.
 
@@ -18,21 +18,21 @@ Main Menu -> Add-Ons -> Covenant -> Press "c" -> settings -> Downloads
 go to movies and Tv and change the location you want files to download to
 
 
-#Download Movies/TV
+# Download Movies/TV
 
 Navigate to the Movie or TV show -> Press "c" -> Select Download -> *wait for it to complete*
 
-#View Videos on Harddrive
+# View Videos on Harddrive
 
 Main Menu -> Videos -> Files -> [Harddrive Name]
 
-#Enable Items in Main Menu
+# Enable Items in Main Menu
 
 Main Menu -> Gear Icon -> Interface Settings -> Skin -> Configure Skin -> Main Menu Items
 
 go down list and enable/disable items as you wish
 
-#Get More Add-ons
+# Get More Add-ons
 
 Main Menu -> Add-ons -> my addons -> Install from Repository -> Select a Repository -> Select a Category -> Select Add-on -> Install
 
