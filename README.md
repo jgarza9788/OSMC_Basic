@@ -1,6 +1,13 @@
 Raspberry Pi / OSMC basic instructions
 ------------------------
 
+# What is OSMC?
+
+OSMC stands for Open Source Media Center, and it's kodi app with all the utilities to make it a complete operating system.
+
+More info at [OSMC.tv](https://osmc.tv)
+
+
 # Set Up Wifi
 
 Main Menu -> My OSMC -> the "<" Icon (at the bottom) -> Wireless -> Select Wifi -> Enter Password
