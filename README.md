@@ -1,6 +1,11 @@
 Raspberry Pi / OSMC basic instructions
 ------------------------
 
+# Pluging In  
+
+Connect the HDMI cable in  
+Then connect the micro usb power cable in.
+
 # What is OSMC?
 
 OSMC stands for Open Source Media Center, and it's kodi app with all the utilities to make it a complete operating system.
