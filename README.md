@@ -3,8 +3,11 @@ Raspberry Pi / OSMC basic instructions
 
 # Pluging In  
 
-Connect the HDMI cable in  
-Then connect the micro usb power cable in.
+Connect the HDMI cable in.  
+Then connect the micro usb power cable in.  
+...make sure your TV/monitor is on the correct channel.  
+
+
 
 # What is OSMC?
 
