@@ -8,7 +8,6 @@ Then connect the micro usb power cable in.
 ...make sure your TV/monitor is on the correct channel.  
 
 
-
 # What is OSMC?
 
 OSMC stands for Open Source Media Center, and it's kodi app with all the utilities to make it a complete operating system.
@@ -58,6 +57,8 @@ http://archive.org/download/repository.xvbox
 http://aeom.cf/repo/
 
 http://kdil.co/repo/
+
+http://fusion.tvaddons.ag/
 
 -->
 
