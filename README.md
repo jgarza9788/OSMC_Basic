@@ -60,6 +60,7 @@ http://kdil.co/repo/
 
 http://fusion.tvaddons.ag/
 
+http://jesusboxrepo.xyz/repo/
 -->
 
 <!--
