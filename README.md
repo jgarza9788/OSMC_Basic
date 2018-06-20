@@ -62,4 +62,12 @@ http://fusion.tvaddons.ag/
 
 -->
 
+<!--
+#instructions here to install Neptune Rising
+https://www.wirelesshack.org/how-to-install-neptune-rising-kodi-addon.html
+
+##use this to install Neptune Rising
+http://repo.mrblamo.xyz/
+-->
+
 
