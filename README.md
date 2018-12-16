@@ -71,6 +71,9 @@ https://www.wirelesshack.org/how-to-install-neptune-rising-kodi-addon.html
 http://repo.mrblamo.xyz/
 
 https://www.google.com/amp/s/seo-michael.co.uk/how-to-install-salts-stream-all-the-sources-for-xbmc-kodi/amp/
+
+#20181216 - YODA
+https://www.wirelesshack.org/how-to-install-the-magic-dragon-kodi-add-on.html
 -->
 
 
